@@ -1,0 +1,24 @@
+{
+  "name": "react-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cometchat-pro/chat": "^3.0.3",
+    "@testing-library/jest-dom": "^5.15.1",
+    "@testing-library/react": "^12.1.2",
+    "firebase": "^9.5.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "uuid": "^8.3.2",
+    "validator": "^13.7.0",
+    "web-vitals": "^2.1.2"
+  }
+}
